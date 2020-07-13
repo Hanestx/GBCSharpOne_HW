@@ -1,0 +1,13 @@
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\obj\Debug\netcoreapp3.1\Ex5.csprojAssemblyReference.cache
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache

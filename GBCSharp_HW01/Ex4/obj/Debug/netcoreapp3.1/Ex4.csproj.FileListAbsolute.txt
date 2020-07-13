@@ -1,0 +1,16 @@
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex4.exe
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex4.deps.json
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.json
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.dev.json
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex6.dll
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\bin\Debug\netcoreapp3.1\Ex6.pdb
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfoInputs.cache
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfo.cs
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.CopyComplete
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.genruntimeconfig.cache
+C:\Users\hanes\C#\GBCSharp_HW01_Maksimov\Ex4\obj\Debug\netcoreapp3.1\Ex4.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\bin\Debug\Ex4.exe
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\bin\Debug\Ex4.pdb
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\obj\Debug\Ex4.exe
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\obj\Debug\Ex4.pdb
+C:\Users\hanes\source\repos\GBCSharp_HW08\Ex4\obj\Debug\Ex4.StartForm.resources
